@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&family=Itim&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    background-image: url(back.jpg);
+}
+h1{
+    color: white;
+    font-family: 'Babylonica', cursive;
+font-family: 'Itim', cursive;
+font-size: 50px;
+}
+.row button{
+    padding: 20px;
+    margin: 0px 3px;
+    border-radius: 36px;
+    cursor: pointer;
+}
+.row1 button{
+    padding: 20px 16px;
+    margin: 0px 4px;
+    border-radius: 42px;
+}
+
+
+.row
+{
+    margin: 10px 0px;
+}
+.row input
+{ 
+    font-size: 20px;
+    margin: 0px 0px;
+    padding: 14px 0px;
+    border: 2px solid black;
+     border-radius: 10px;
+}

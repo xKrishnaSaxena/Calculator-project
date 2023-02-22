@@ -1,0 +1,16 @@
+.text-center{
+    text-align: center;
+}
+/* .bg-blue{
+    background-image: "back.jpg";
+} */
+.flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-dir
+{
+    flex-direction: column;
+}
